@@ -1,7 +1,8 @@
 $(document).ready(function() {
 
   // ------------ modal content -----------------
-
+  //
+  
   // Open the Modal
   function openModal() {
     $('#myModal').style.display = "block";
