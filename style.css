@@ -2,8 +2,9 @@ body {
   background-image: url("images/x.jpeg");
   /* background-image: url("images/gplaypattern.png"); */
   background-size: cover;
+  background-repeat:no-repeat;
   overflow-x: hidden;
-  /* overflow-y: hidden; */
+  overflow-y: hidden; 
 }
 
 /* --------- modal section -----------*/
